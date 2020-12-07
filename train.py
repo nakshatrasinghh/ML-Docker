@@ -6,7 +6,6 @@ import seaborn as sns
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 
 #@ Parsing csv file using pandas 
 df = pd.read_csv('mobile.csv')
