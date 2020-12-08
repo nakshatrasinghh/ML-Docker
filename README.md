@@ -53,7 +53,7 @@ Docker [push command](https://docs.docker.com/engine/reference/commandline/push/
 ![](imgs/docker_hub.png)
 
 ## Docker Hub
-Click the icon below to checkout the docker registry, just execute `docker run nakshatrasinghh/mobile-classification-v3:latest` on cmd and have the results right at your terminal without any training requirements. Make sure you have [docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows/) installed.
+Click the icon below to checkout the docker registry, just execute **`docker run nakshatrasinghh/mobile-classification-v3:latest`** on cmd and have the results right at your terminal without any training requirements. Make sure you have [docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows/) installed.
 
 <p align='left'>
   <a href="https://hub.docker.com/repository/docker/nakshatrasinghh/mobile-classification-v3"><img src="https://user-images.githubusercontent.com/53419293/101325373-a84d8c80-3891-11eb-85a0-3f9a2e1cd06d.png" height="49" width="162"alt="An image"></a>&nbsp;&nbsp;
