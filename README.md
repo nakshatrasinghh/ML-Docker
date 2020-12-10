@@ -32,7 +32,7 @@ Secondly, we copy the requirements.txt file in the root director, move to the ro
 
 **```docker build -t mobile-classification-v3:latest . ```**
 
-Docker [build command](https://docs.docker.com/engine/reference/commandline/build/) will build the docker image for us, `docker build -t <image-name>:<tag> .`, here -t stands for tag. Tag is used to version the docker images in deployement phase. The  default tag is latest. **Make sure you are in the working directly of the project.**
+Docker [build command](https://docs.docker.com/engine/reference/commandline/build/) will build the docker image for us, `docker build -t <image-name>:<tag> .`, here -t stands for tag. Tag is used to version the docker images in deployement phase. The  default tag is latest. **Make sure you are in the working directory of the project.**
 
 **```docker run --name mobile-classification-test --rm mobile-classification-v3:latest```**
 
