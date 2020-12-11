@@ -26,7 +26,7 @@ To create docker images and run them in containers, you need to have a [dockerfi
 
 ![](imgs/docker.png)
 
-Secondly, we copy the requirements.txt file in the root director, move to the root directory and pip install all the requirements. Finally, we execute python3 command along with the file we need to execute for tha application to run.  
+Secondly, we copy the requirements.txt file in the root director, move to the root directory and pip install all the requirements. Finally, we execute python3 command along with the file we need to execute for the application to run.  
 
 ## Docker Commands
 
